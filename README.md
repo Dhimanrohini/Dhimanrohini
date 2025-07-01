@@ -13,7 +13,7 @@
 - 🧠 Skilled in **SQL, Python, Power BI, Excel, and Statistics**
 - 📊 Passionate about transforming raw data into strategic decisions
 - 📈 Currently exploring Machine Learning and Real-time Dashboards
-- 📬 Reach me at: **dhimanrohini96@gmail.com**
+- 📬 Reach me at: **rohinidhiman1301@gmail.com**
 
 ---
 
